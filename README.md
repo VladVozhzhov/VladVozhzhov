@@ -1,36 +1,59 @@
-# 👋 Hi there, I'm Vlad Vozhzhov!
+<h1 align="left">👋 Hi there, I'm Vlad Vozhzhov!</h1>
 
-I'm a passionate and driven **junior full-stack web developer** in the making, building my skills one project at a time. I love turning ideas into interactive web experiences and continuously learning modern tools and best practices.
+###
 
-## 🛠️ Tech Stack
-- 🌐 **Frontend**:  
-  `HTML` · `CSS` · `JavaScript` · `TailwindCSS` · `React.js`
+<p align="left">I'm a passionate and driven junior full-stack web developer in the making, building my skills one project at a time. I love turning ideas into interactive web experiences and continuously learning modern tools and best practices.</p>
 
-- 🖥️ **Backend**:  
-  `Node.js` · `Express.js` (in progress)  
+###
 
-- 🛢️ **Database**:  
-  `MongoDB`
+<h2 align="left">🚀 What I'm Working On</h2>
 
-- 🧰 **Tools & Other**:  
-  `Git` · `GitHub` · `VS Code`
+###
 
-## 🚀 What I'm Working On
-- Building full-stack apps with user authentication, dynamic UIs, and REST APIs
-- Learning database integration and advanced state management in React
-- Improving my understanding of backend architecture and deployment
+<p align="left">- Building full-stack apps with user authentication, dynamic UIs, and REST APIs<br>- Learning database integration and advanced state management in React<br>- Improving my understanding of backend architecture and deployment</p>
 
-## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VladVozhzhov&show_icons=true&hide_title=true&theme=radical)
+###
 
-## 📫 Contact me
-Feel free to reach out or follow along as I grow:
-- My telegram: @Kiasua
-- Github Link: https://github.com/VladVozhzhov/
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladVozhzhov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladVozhzhov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-> "Learning to write programs stretches your mind, and helps you think better — it creates a way of thinking about things that I think is helpful in all domains."  
-> — Bill Gates
+<h2 align="left">🛠️ My tech stack</h2>
 
-Thanks for visiting! 🙌
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="left">📫 Contact Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://t.me/Kiasua" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/kiasuaaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###

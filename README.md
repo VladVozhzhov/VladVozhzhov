@@ -6,21 +6,6 @@
 
 ###
 
-<h2 align="left">🚀 What I'm Working On</h2>
-
-###
-
-<p align="left">- Building full-stack apps with user authentication, dynamic UIs, and REST APIs<br>- Learning database integration and advanced state management in React<br>- Improving my understanding of backend architecture and deployment</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladVozhzhov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladVozhzhov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">🛠️ My tech stack</h2>
 
 ###
@@ -40,6 +25,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h2 align="left">🚀 What I'm Working On</h2>
+
+###
+
+<ul align="left">
+  <li>Building full-stack apps with user authentication, dynamic UIs, and REST APIs</li>
+  <li>Learning database integration and advanced state management in React</li>
+  <li>Improving my understanding of backend architecture and deployment</li>
+</ul>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladVozhzhov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladVozhzhov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">📝 My main projects</h2>
+
+###
+
+<ul>
+  <li><a align="left" href="https://github.com/VladVozhzhov/productivity-dashboard">Productivity Dashboard</a></li>
+  <li><a align="left" href="https://github.com/VladVozhzhov/finance-dashboard">Finance Dashboard</a></li>
+</ul>
 
 ###
 

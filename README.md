@@ -54,6 +54,7 @@
 <ul>
   <li><a align="left" href="https://github.com/VladVozhzhov/productivity-dashboard">Productivity Dashboard</a></li>
   <li><a align="left" href="https://github.com/VladVozhzhov/finance-dashboard">Finance Dashboard</a></li>
+  <li><a align="left" href="https://github.com/VladVozhzhov/tests-creator">Tests Creator (in progress)</a></li>
 </ul>
 
 ###

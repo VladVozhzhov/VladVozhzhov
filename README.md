@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
 ###
@@ -47,7 +49,7 @@
 
 ###
 
-<h2 align="left">📝 My main projects</h2>
+<h2 align="left">📝 My projects</h2>
 
 ###
 
@@ -55,6 +57,7 @@
   <li><a align="left" href="https://github.com/VladVozhzhov/productivity-dashboard">Productivity Dashboard</a></li>
   <li><a align="left" href="https://github.com/VladVozhzhov/finance-dashboard">Finance Dashboard</a></li>
   <li><a align="left" href="https://github.com/VladVozhzhov/tests-creator">Tests Creator (in progress)</a></li>
+  <li><a align="left" href="https://github.com/VladVozhzhov/inventory-managment-api">Inventory Managment API</a></li>
 </ul>
 
 ###
